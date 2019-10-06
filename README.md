@@ -1,5 +1,5 @@
 # TMDb-movie-data
-Udacity  Project 2 : TMDb movie data it is all about how to apply data analysis process to your work.
+Udacity  Project 2: TMDb movie data it is all about how to apply data analysis process to your work.
 
 # Tools and libraries
 1.	python through Jupyter notebook (ANACONDA).
